@@ -9,8 +9,8 @@ object ClassDemo01 {
 
     val list3 = -2 :: -1 :: Nil
 
-    println(s"list1:${list1}")
-    println(s"list2:${list2}")
-    println(s"list3:${list3}")
+    println(s"list1:$list1")
+    println(s"list2:$list2")
+    println(s"list3:$list3")
   }
 }
